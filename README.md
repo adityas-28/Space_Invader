@@ -126,4 +126,4 @@ Open a terminal or command prompt, navigate to the folder where your game files 
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Aditya Singh](https://github.com/adityas-28)**
+Made with ❤️ by [Aditya Singh](https://github.com/adityas-28)
