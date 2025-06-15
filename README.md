@@ -1,4 +1,4 @@
-**# 🚀 Space Invader - Pygame
+# 🚀 Space Invader - Pygame
 
 A retro-style **Space Invader game** built using **Python and Pygame**, featuring:
 - Multiple enemy types (including a boss with health)
